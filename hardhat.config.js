@@ -94,7 +94,7 @@ module.exports = {
             80001: 0, // first account on Mumbai
         },
 
-        player1: {
+        account1: {
             default: 1,
             1: 1,
             5: 1,
@@ -102,7 +102,7 @@ module.exports = {
             80001: 1,
         },
 
-        player2: {
+        account2: {
             default: 2,
             1: 2,
             5: 2,
@@ -110,7 +110,7 @@ module.exports = {
             80001: 2,
         },
 
-        player3: {
+        account3: {
             default: 3,
             1: 3,
             5: 3,
